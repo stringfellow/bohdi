@@ -1,0 +1,20 @@
+{% extends "site_base.html" %}
+
+{% load i18n %}
+{% load ifsetting_tag %}
+
+{% block head_title %}{% trans "User Body" %}{% endblock %}
+
+{% block body %}
+    <h1>{% trans "A body" %}</h1>
+    
+    {% ifequal user.username theuser.username %}
+        Hello {{user.username}}
+    {% endifequal %}
+    
+    {{theuser}}
+    {% if user.is_authenticated %}
+    
+    
+    {% endif %}
+{% endblock %}

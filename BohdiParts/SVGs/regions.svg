@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="350px" height="800px" viewBox="0 0 350 800" enable-background="new 0 0 350 800" xml:space="preserve">
+<defs>
+	
+	<script  type="text/javascript">function loadXMLDoc(url)
+        {
+        if (window.XMLHttpRequest)
+          {
+          xmlhttp=new XMLHttpRequest();
+          }
+        else
+          {
+          xmlhttp=new ActiveXObject(&quot;Microsoft.XMLHTTP&quot;);
+          }
+        xmlhttp.open(&quot;GET&quot;,url,false);
+        xmlhttp.send(null);
+        return(xmlhttp.responseText);
+        }
+		</script>
+</defs>
+<g id="body">
+	<g id="leg">
+		<rect id="leg_x28_L_x29_" x="194.172" y="478.5" fill="#FFFFFF" stroke="#000000" width="58" height="299"/>
+		<rect id="thigh_x28_L_x29_" x="200.172" y="478.5" fill="#FFFFFF" stroke="#000000" width="47" height="127"/>
+		<rect id="knee_x28_L_x29_" x="200.982" y="605.5" fill="#FFFFFF" stroke="#000000" width="46.188" height="32"/>
+		<rect id="shin_x28_L_x29_" x="200.982" y="637.5" fill="#FFFFFF" stroke="#000000" width="46.188" height="111"/>
+		<rect id="foot_x28_L_x29_" x="201.172" y="747.5" fill="#FFFFFF" stroke="#000000" width="80" height="25"/>
+		<rect id="ankle_x28_L_x29_" x="202.172" y="741.5" fill="#FFFFFF" stroke="#000000" width="42" height="13"/>
+		<path id="little-toe_x28_L_x29_" fill="#FFFFFF" stroke="#000000" d="M275.316,746.1c0.01-1.521,3.94-2.241,8.785-1.605
+			c4.842,0.638,8.762,2.39,8.754,3.914c-0.008,1.521-3.939,2.245-8.783,1.604C279.23,749.375,275.311,747.623,275.316,746.1z"/>
+		<path id="big-toe_x28_L_x29_" fill="#FFFFFF" stroke="#000000" d="M276.977,773.181c0.395-1.507,4.854-2.547,9.963-2.315
+			c5.107,0.228,8.929,1.64,8.533,3.149c-0.396,1.513-4.854,2.552-9.964,2.32C280.4,776.104,276.582,774.691,276.977,773.181z"/>
+		<path id="_x32_nd-toe_x5F_x28_x5F_L_x5F_x29_x5F_" fill="#FFFFFF" stroke="#000000" d="M275.634,765.479
+			c0.009-1.521,3.938-2.24,8.783-1.604c4.844,0.637,8.761,2.389,8.754,3.913c-0.008,1.521-3.94,2.245-8.782,1.605
+			C279.545,768.756,275.626,767.002,275.634,765.479z"/>
+		<path id="middle-toe_x28_L_x29_" fill="#FFFFFF" stroke="#000000" d="M275.35,757.916c0.008-1.523,3.94-2.245,8.783-1.608
+			c4.844,0.641,8.762,2.394,8.754,3.914c-0.007,1.523-3.938,2.245-8.783,1.606C279.26,761.193,275.341,759.439,275.35,757.916z"/>
+		<path id="_x34_th-toe_x5F_x28_x5F_L_x5F_x29_x5F_" fill="#FFFFFF" stroke="#000000" d="M274.963,751.727
+			c0.01-1.521,3.939-2.241,8.783-1.605c4.843,0.638,8.763,2.391,8.754,3.914c-0.008,1.521-3.939,2.244-8.782,1.605
+			C278.874,755.003,274.956,753.25,274.963,751.727z"/>
+	</g>
+	<g id="leg_1_">
+		<rect id="leg_x28_R_x29_" x="113.5" y="480.5" fill="#FFFFFF" stroke="#000000" width="58" height="299"/>
+		<rect id="thigh_x28_R_x29_" x="118.5" y="480.5" fill="#FFFFFF" stroke="#000000" width="47" height="127"/>
+		<rect id="knee_x28_R_x29_" x="118.5" y="607.5" fill="#FFFFFF" stroke="#000000" width="46.189" height="32"/>
+		<rect id="shin_x28_R_x29_" x="118.5" y="639.5" fill="#FFFFFF" stroke="#000000" width="46.189" height="111"/>
+		<rect id="foot_x28_R_x29_" x="84.5" y="749.5" fill="#FFFFFF" stroke="#000000" width="80" height="25"/>
+		<rect id="ankle_x28_R_x29_" x="121.5" y="743.5" fill="#FFFFFF" stroke="#000000" width="42" height="13"/>
+		<path id="little-toe_x28_R_x29_" fill="#FFFFFF" stroke="#000000" d="M81.599,752.013c-4.843,0.641-8.775-0.083-8.782-1.604
+			c-0.008-1.524,3.911-3.276,8.754-3.914c4.843-0.636,8.775,0.084,8.784,1.605C90.361,749.623,86.442,751.375,81.599,752.013z"/>
+		<path id="big-toe_x28_R_x29_" fill="#FFFFFF" stroke="#000000" d="M80.163,778.335c-5.108,0.23-9.568-0.809-9.963-2.32
+			c-0.395-1.511,3.425-2.923,8.533-3.149c5.109-0.23,9.569,0.81,9.963,2.315C89.09,776.691,85.271,778.104,80.163,778.335z"/>
+		<path id="_x32_nd-toe_x5F_x28_x5F_R_x5F_x29_x5F_" fill="#FFFFFF" stroke="#000000" d="M81.284,771.393
+			c-4.843,0.64-8.775-0.084-8.783-1.605c-0.007-1.524,3.91-3.276,8.754-3.913c4.844-0.636,8.775,0.084,8.783,1.604
+			C90.046,769.002,86.127,770.756,81.284,771.393z"/>
+		<path id="middle-toe_x28_R_x29_" fill="#FFFFFF" stroke="#000000" d="M81.568,763.828c-4.843,0.639-8.776-0.083-8.783-1.606
+			c-0.008-1.521,3.911-3.273,8.754-3.914c4.843-0.637,8.775,0.085,8.784,1.608C90.331,761.439,86.412,763.193,81.568,763.828z"/>
+		<path id="_x34_th-toe_x5F_x28_x5F_R_x5F_x29_x5F_" fill="#FFFFFF" stroke="#000000" d="M81.954,757.641
+			c-4.843,0.639-8.774-0.086-8.782-1.605c-0.009-1.523,3.911-3.276,8.754-3.914c4.843-0.636,8.774,0.084,8.783,1.605
+			C90.716,755.25,86.798,757.003,81.954,757.641z"/>
+	</g>
+	<g id="arm">
+		
+			<rect id="arm_x28_R_x29_" x="40.493" y="176.519" transform="matrix(-0.9918 -0.1276 0.1276 -0.9918 90.8362 657.8268)" fill="#FFFFFF" stroke="#000000" width="51.994" height="298.97"/>
+		
+			<rect id="hand_x28_R_x29_" x="29.19" y="425.654" transform="matrix(0.993 0.1179 -0.1179 0.993 52.7889 -2.8748)" fill="#FFFFFF" stroke="#000000" width="42.996" height="37.995"/>
+		
+			<rect id="wrist_x28_R_x29_" x="44.56" y="404.228" transform="matrix(0.993 0.118 -0.118 0.993 49.5758 -3.8217)" fill="#FFFFFF" stroke="#000000" width="25" height="24.996"/>
+		
+			<rect id="fore-arm_x28_R_x29_" x="49.365" y="313.56" transform="matrix(0.993 0.1179 -0.1179 0.993 42.773 -4.9663)" fill="#FFFFFF" stroke="#000000" width="27.998" height="90.992"/>
+		
+			<rect id="elbow_x28_R_x29_" x="55.621" y="298.92" transform="matrix(0.993 0.1179 -0.1179 0.993 36.6171 -6.0715)" fill="#FFFFFF" stroke="#000000" width="27.997" height="15"/>
+		
+			<rect id="upper-arm_x28_R_x29_" x="63.225" y="185.373" transform="matrix(-0.993 -0.1179 0.1179 -0.993 125.3309 492.1482)" fill="#FFFFFF" stroke="#000000" width="27.998" height="113.988"/>
+		<g id="fingers_1_">
+			<path id="little-finger_x28_R_x29_" fill="#FFFFFF" stroke="#000000" d="M34.646,453.462c-1.486-0.351-3.645,7.194-4.822,16.854
+				c-1.175,9.654-0.924,17.771,0.561,18.123c1.486,0.35,3.645-7.193,4.822-16.854C36.382,461.928,36.131,453.812,34.646,453.462z"/>
+			<path id="thumb_x28_R_x29_" fill="#FFFFFF" stroke="#000000" d="M67.119,455.273c-1.447,0.592-1.383,7.199,0.146,14.768
+				c1.531,7.564,3.947,13.217,5.396,12.625c1.449-0.592,1.384-7.203-0.146-14.768C70.984,460.334,68.569,454.684,67.119,455.273z"/>
+			<path id="index-finger_x28_R_x29_" fill="#FFFFFF" stroke="#000000" d="M53.378,458.746c-1.484-0.354-3.643,7.191-4.82,16.852
+				c-1.177,9.66-0.926,17.771,0.561,18.123c1.485,0.354,3.645-7.189,4.822-16.852C55.117,467.209,54.865,459.096,53.378,458.746z"/>
+			<path id="middle-finger_x28_R_x29_" fill="#FFFFFF" stroke="#000000" d="M46.127,456.365c-1.483-0.352-3.644,7.191-4.82,16.854
+				c-1.177,9.658-0.925,17.774,0.561,18.125c1.485,0.354,3.646-7.193,4.821-16.854C47.866,464.832,47.614,456.717,46.127,456.365z"
+				/>
+			<path id="ring-finger_x28_R_x29_" fill="#FFFFFF" stroke="#000000" d="M40.249,454.121c-1.484-0.354-3.643,7.191-4.82,16.85
+				c-1.177,9.66-0.926,17.773,0.561,18.125c1.485,0.352,3.643-7.189,4.822-16.852C41.988,462.584,41.736,454.471,40.249,454.121z"/>
+		</g>
+	</g>
+	<g id="arm_1_">
+		
+			<rect id="arm_x28_L_x29_" x="268.496" y="174.521" transform="matrix(0.9918 -0.1276 0.1276 0.9918 -38.9381 40.2284)" fill="#FFFFFF" stroke="#000000" width="51.993" height="298.969"/>
+		
+			<rect id="hand_x28_L_x29_" x="288.812" y="423.653" transform="matrix(-0.993 0.1179 -0.1179 -0.993 670.6461 845.6254)" fill="#FFFFFF" stroke="#000000" width="42.995" height="37.994"/>
+		
+			<rect id="wrist_x28_L_x29_" x="291.444" y="402.228" transform="matrix(-0.993 0.1181 -0.1181 -0.993 654.7205 790.6722)" fill="#FFFFFF" stroke="#000000" width="24.999" height="24.997"/>
+		
+			<rect id="fore-arm_x28_L_x29_" x="283.62" y="311.561" transform="matrix(-0.993 0.1179 -0.1179 -0.993 635.2582 676.5337)" fill="#FFFFFF" stroke="#000000" width="27.996" height="90.992"/>
+		
+			<rect id="elbow_x28_L_x29_" x="277.38" y="296.914" transform="matrix(-0.993 0.1179 -0.1179 -0.993 616.6199 572.3474)" fill="#FFFFFF" stroke="#000000" width="27.998" height="15"/>
+		
+			<rect id="upper-arm_x28_L_x29_" x="269.77" y="183.377" transform="matrix(0.993 -0.1179 0.1179 0.993 -26.3609 35.1332)" fill="#FFFFFF" stroke="#000000" width="27.996" height="113.988"/>
+		<g id="fingers">
+			<path id="little-finger_x28_L_x29_" fill="#FFFFFF" stroke="#000000" d="M325.784,469.588c1.178,9.658,3.336,17.201,4.822,16.854
+				c1.482-0.354,1.733-8.469,0.561-18.123c-1.178-9.66-3.336-17.205-4.822-16.854C324.859,451.812,324.608,459.928,325.784,469.588z
+				"/>
+			<path id="thumb_x28_L_x29_" fill="#FFFFFF" stroke="#000000" d="M288.475,465.898c-1.529,7.562-1.595,14.176-0.146,14.768
+				c1.448,0.592,3.864-5.061,5.396-12.625c1.529-7.566,1.594-14.176,0.146-14.768C292.421,452.684,290.006,458.334,288.475,465.898z
+				"/>
+			<path id="index-finger_x28_L_x29_" fill="#FFFFFF" stroke="#000000" d="M307.05,474.869c1.178,9.66,3.337,17.203,4.822,16.852
+				c1.486-0.352,1.737-8.463,0.561-18.123c-1.178-9.66-3.336-17.203-4.818-16.852C306.125,457.096,305.873,465.209,307.05,474.869z"
+				/>
+			<path id="middle-finger_x28_L_x29_" fill="#FFFFFF" stroke="#000000" d="M314.302,472.49c1.176,9.658,3.336,17.205,4.821,16.854
+				c1.485-0.351,1.737-8.467,0.561-18.125c-1.177-9.66-3.337-17.203-4.818-16.854C313.376,454.717,313.124,462.832,314.302,472.49z"
+				/>
+			<path id="ring-finger_x28_L_x29_" fill="#FFFFFF" stroke="#000000" d="M320.179,470.244c1.182,9.66,3.337,17.201,4.822,16.852
+				c1.486-0.352,1.737-8.465,0.561-18.125c-1.178-9.658-3.336-17.201-4.818-16.85C319.254,452.471,319.002,460.584,320.179,470.244z
+				"/>
+		</g>
+	</g>
+	<g id="torso">
+		<rect id="torso_x28_C_x29_" x="113.5" y="166.5" fill="#FFFFFF" stroke="#000000" width="138" height="314"/>
+		<g id="hips_x28_C_x29__1_">
+			<rect id="_x3C_Path_x3E__2_" x="119.5" y="419.5" fill="#FFFFFF" stroke="#000000" width="127" height="61"/>
+			<rect id="hip_x28_R_x29_" x="117.471" y="430.275" fill="#FFFFFF" stroke="#000000" width="31.553" height="56.573"/>
+			<rect id="hip_x28_L_x29_" x="216.545" y="429.955" fill="#FFFFFF" stroke="#000000" width="31.553" height="56.577"/>
+		</g>
+		<g id="thorax_x28_C_x29_">
+			<rect id="_x3C_Path_x3E_" x="119.5" y="171.5" fill="#FFFFFF" stroke="#000000" width="126.08" height="159"/>
+			<rect id="ribcage_x28_C_x29_" x="130.5" y="186.5" fill="#FFFFFF" stroke="#000000" width="105" height="134"/>
+			<rect id="sternum_x28_C_x29_" x="174.5" y="209.5" fill="#FFFFFF" stroke="#000000" width="19" height="39"/>
+		</g>
+		<g id="abdomen_x28_C_x29__1_">
+			<rect id="_x3C_Path_x3E__1_" x="119.5" y="330.5" fill="#FFFFFF" stroke="#000000" width="127" height="89"/>
+			<ellipse id="belly_x28_C_x29_" fill="#FFFFFF" stroke="#000000" cx="182.223" cy="399.913" rx="32.146" ry="40.636"/>
+			<ellipse id="navel_x28_C_x29_" fill="#FFFFFF" stroke="#000000" cx="182.525" cy="400.216" rx="3.939" ry="4.549"/>
+		</g>
+		<ellipse id="crotch_x28_C_x29_" fill="#FFFFFF" stroke="#000000" cx="182.798" cy="469.055" rx="32.751" ry="19.407"/>
+		<rect id="genitals_x28_C_x29_" x="169.5" y="465.5" fill="#FFFFFF" stroke="#000000" width="26" height="30"/>
+		<rect id="shoulder_x28_R_x29_" x="90.5" y="161.5" fill="#FFFFFF" stroke="#000000" width="53" height="44"/>
+		<rect id="shoulder_x28_L_x29_" x="214" y="161.5" fill="#FFFFFF" stroke="#000000" width="53" height="44"/>
+	</g>
+	<g id="neck">
+		<rect id="neck_x28_C_x29_" x="167.5" y="153.5" fill="#FFFFFF" stroke="#000000" width="36" height="13"/>
+		<rect id="throat_x28_C_x29_" x="171.945" y="155.404" fill="#FFFFFF" stroke="#000000" width="25.024" height="7.616"/>
+	</g>
+	<g id="head">
+		<rect id="head_x28_C_x29_" x="147.5" y="67.5" fill="#FFFFFF" stroke="#000000" width="73" height="86"/>
+		<g id="face">
+			<rect id="face_x28_C_x29_" x="152.5" y="88.5" fill="#FFFFFF" stroke="#000000" width="63" height="64"/>
+			<rect id="chin_x28_C_x29_" x="174.5" y="149.875" fill="#FFFFFF" stroke="#000000" width="20" height="8.25"/>
+			<rect id="nose_x28_C_x29_" x="180.5" y="111.5" fill="#FFFFFF" stroke="#000000" width="8" height="14"/>
+			<g id="cheeks">
+				<ellipse id="cheek_x28_R_x29_" fill="#FFFFFF" stroke="#000000" cx="163" cy="119.5" rx="7.5" ry="11"/>
+				<ellipse id="cheek_x28_L_x29_" fill="#FFFFFF" stroke="#000000" cx="205" cy="119.5" rx="7.5" ry="11"/>
+			</g>
+			<g id="eyes">
+				<rect id="eye_x28_L_x29_" x="193.5" y="98.5" fill="#FFFFFF" stroke="#000000" width="12" height="8"/>
+				<rect id="eye_x28_R_x29_" x="163.5" y="98.5" fill="#FFFFFF" stroke="#000000" width="12" height="8"/>
+			</g>
+			<g id="mouth">
+				<rect id="mouth_x28_C_x29_" x="169.5" y="130.5" fill="#FFFFFF" stroke="#000000" width="30" height="12"/>
+				<ellipse id="upper-lip_x28_C_x29_" fill="#FFFFFF" stroke="#000000" cx="184.346" cy="132.75" rx="15.859" ry="2.843"/>
+				<ellipse id="lower-lip_x28_C_x29_" fill="#FFFFFF" stroke="#000000" cx="184.346" cy="142.454" rx="14.254" ry="2.729"/>
+				<ellipse id="tongue_x28_C_x29_" fill="#FFFFFF" stroke="#000000" cx="190.075" cy="144.273" rx="4.245" ry="8.188"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
